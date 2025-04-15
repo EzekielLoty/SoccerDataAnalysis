@@ -112,6 +112,5 @@ Created by **Ezekiel Loty**
 
 This project is for educational and analytical purposes only.  
 All data sourced from [FBref.com](https://fbref.com) under their fair use policy.
-```
 
 ---
