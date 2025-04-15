@@ -1,5 +1,3 @@
----
-```markdown
 # ⚽ Tottenham Hotspur 2024/25 Attacking Player Analysis
 
 ### Matchweek 1–32 (All Competitions) | Last Updated: April 15th, 2025  
