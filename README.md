@@ -100,7 +100,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly
 ## 📬 Contact
 
 Created by **Ezekiel Loty**  
-📧 [ez276182@dal.ca]  
+📧 ez276182@dal.ca  
 🔗 [linkedin.com/in/ezekiel-loty](https://www.linkedin.com/in/ezekiel-loty/)
 🐙 [github.com/EzekielLoty](https://github.com/EzekielLoty)
 
