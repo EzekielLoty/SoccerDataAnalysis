@@ -41,7 +41,7 @@ Interactive and static visualizations provide an intuitive understanding of play
 
 ---
 
-## 🖼️ Sample Visualizations
+## 🖼️ Visualizations
 
 ### 1. Goal Contributions Per 90  
 Bar chart comparing goals and assists per 90 minutes for each attacker.
