@@ -55,13 +55,27 @@ Polar plot comparing top 5 attacking players based on standardized metrics.
 ### 4. Creative Heatmap  
 Visualizes key pass and progressive metrics across most creative attackers.
 
-### 5. Efficiency Index  
+## 5. Efficiency Index  
 Ranks players by a weighted formula emphasizing goals, assists, shot performance, and creativity.
 
 ### 6. Interactive Dashboard  
 Built with Plotly – explore goals, assists, conversion rates, progressive actions, and more.
 
 ---
+
+## 📌 Efficiency Index Formula
+
+To create a single score for attacker impact:
+
+```
+Efficiency Index =
+(Gls_per90 × 3) +
+(Ast_per90 × 2) +
+(xG_overperformance × 0.5) +
+(KP / 90s × 0.5)
+```
+
+This helps distinguish high-impact players beyond raw stats.
 
 ---
 
@@ -80,22 +94,6 @@ Install all dependencies with:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn plotly
 ```
-
----
-
-## 📌 Efficiency Index Formula
-
-To create a single score for attacker impact:
-
-```
-Efficiency Index =
-(Gls_per90 × 3) +
-(Ast_per90 × 2) +
-(xG_overperformance × 0.5) +
-(KP / 90s × 0.5)
-```
-
-This helps distinguish high-impact players beyond raw stats.
 
 ---
 
