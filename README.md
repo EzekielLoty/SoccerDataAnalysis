@@ -55,7 +55,7 @@ Polar plot comparing top 5 attacking players based on standardized metrics.
 ### 4. Creative Heatmap  
 Visualizes key pass and progressive metrics across most creative attackers.
 
-## 5. Efficiency Index  
+### 5. Efficiency Index  
 Ranks players by a weighted formula emphasizing goals, assists, shot performance, and creativity.
 
 ### 6. Interactive Dashboard  
